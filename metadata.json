@@ -1,0 +1,6 @@
+{
+  "name": "수박게임 (Suika Watermelon Game)",
+  "description": "귀여운 과일들을 떨어뜨려 합치고 커다란 수박을 완성하는 중독성 만점 과일 퍼즐 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
